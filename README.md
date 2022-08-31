@@ -1,11 +1,21 @@
-# Sample Snack app
+## NotBeen App
+# What is this app ?
+  This is an app made by Ömer Erdem Ahsen. This project aims to clone and improve already existing app called "Been" which was released on IOS and Android.
+  At NotBeen you can add the countries you have visited and save it. It will group the countries according to their continents and show it in a eye-catching way. Pretty   simple huh :)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# ScreenShots From the App
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+<p align="center" >
+  <img src="images/home.png" width="256" height="455">
+  <img src="images/add.png" width="256" height="455">
+  <img src="images/settings.png" width="256" height="455">
+</p>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+# How can I run the app ?
+  You can download the project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+  If you want to run it online then here is the Snack Expo link that provides an online emulator.
+  Snack Expo: https://snack.expo.dev/@erdemahsen/notbeen
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+#Ömer Erdem Ahsen
+
