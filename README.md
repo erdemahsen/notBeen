@@ -13,7 +13,7 @@
 
 # How can I run the app ?
   You can download the project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-  If you want to run it online then here is the Snack Expo link that provides an online emulator.
+  If you want to run it online then here is the Snack Expo link that provides an online emulator. <br />
   Snack Expo: https://snack.expo.dev/@erdemahsen/notbeen
 
 
